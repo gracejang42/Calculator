@@ -1,6 +1,8 @@
 # Calculator
 cpp implementation of calculator that can calculate +, - , / , * , ^ , % and parse parenthesis 
 
+***Calculator is FinalProject.cpp***
+
 ## Pseudocode
 
 From Main: User enters Input (in the form of String Expression)
