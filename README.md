@@ -9,6 +9,7 @@ Input is fed through the Calculator c
 class Calculator 
 Calculator is default
 
+
 To be used by class calulator:
 string expr; //The Input 
 string::iterator it = begin(expr); //always starts at the beginning of the expression 
